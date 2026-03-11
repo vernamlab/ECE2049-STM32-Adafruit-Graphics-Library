@@ -8,3 +8,4 @@ For installation instructions, see the [INSTALL.md](INSTALL.md) file.
 
 ## API Reference
 
+The API reference manual for the exposed C to C++ API can be found in the generated Doxygen documentation pdf, found at the [Docs/latex/refman.pdf](Docs/latex/refman.pdf) file. The documentation can also be viewed by cloning the repository and opening the [index.html](Docs/html/index.html) file in the Docs/html folder in a web browser for a more interactive, web-based view.

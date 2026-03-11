@@ -22,6 +22,12 @@
 extern "C" {
 #endif // __cplusplus
 
+/**
+ * @brief Internal handle used to store the instance of an Adafruit_TFTShield18 class for use in the C API functions. This struct is not 
+ *        intended to be used outside of this API and should be treated as an opaque handle. Provides a C compatible structure to store 
+ *        the C++ class instance for the TFT shield.
+ * 
+ */
 typedef struct TFTShield18_Handle TFTShield18_Handle;
 
 /**
