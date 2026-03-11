@@ -8,4 +8,4 @@ For installation instructions, see the [INSTALL.md](INSTALL.md) file.
 
 ## API Reference
 
-The API reference manual for the exposed C to C++ API can be found in the generated Doxygen documentation pdf, found at the [Docs/latex/refman.pdf](Docs/latex/refman.pdf) file. The documentation can also be viewed by cloning the repository and opening the [index.html](Docs/html/index.html) file in the Docs/html folder in a web browser for a more interactive, web-based view.
+The API reference manual for the exposed C to C++ API can be found at this link: https://wpi-ece2049-reimagined-mqp.github.io/ECE2049-STM32-Adafruit-Graphics-Library/, which is updated with every push to this repository. You can also read an offline version in the generated Doxygen documentation pdf, found at the [Docs/latex/refman.pdf](Docs/latex/refman.pdf) file. The documentation can also be viewed by cloning the repository and opening the [index.html](Docs/html/index.html) file in the Docs/html folder in a web browser for an offline, web-based view.
