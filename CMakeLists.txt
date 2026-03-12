@@ -39,7 +39,9 @@ enable_language(C CXX ASM)
 add_executable(${CMAKE_PROJECT_NAME})
 
 # CUSTOM: Enable C++ linkage support
-set_target_properties(${CMAKE_PROJECT_NAME} PROPERTIES LINKER_LANGUAGE CXX)
+set_target_properties(
+    ${CMAKE_PROJECT_NAME} PROPERTIES LINKER_LANGUAGE CXX
+)
 
 # Add STM32CubeMX generated sources
 add_subdirectory(cmake/stm32cubemx)
